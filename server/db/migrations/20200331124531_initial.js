@@ -1,8 +1,8 @@
 const Knex = require("knex");
-const { user } = require("../../src/contants/tableNames");
+const { user } = require("../../src/constants/tableNames");
 
 exports.up = async knex => {
-  await knex.schema.creatTable(user, table => {
+  await knex.schema.createTable(user, table => {
     table.increments().notNullable();
     table
       .string("email", 254)
