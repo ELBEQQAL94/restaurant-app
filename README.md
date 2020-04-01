@@ -4,6 +4,9 @@
 
 The restaurant website, it's give us informations about all category of foods and delivery the food that we want.
 
+### Front End: `Vuejs`
+-----------------------
+
 ### Back End Setup
 
 ```sh
@@ -14,7 +17,6 @@ The restaurant website, it's give us informations about all category of foods an
 
 ```
 
-### Front End: `Vuejs`
 
 ### Back End: `Nodejs/Expressjs/JWT`
 
