@@ -19,6 +19,10 @@ The restaurant website, it's give us informations about all category of foods an
 ```
 
 ```sh
+* yarn install
+```
+
+```sh
 * yarn migrate (for migrations db)
 ```
 
