@@ -8,7 +8,8 @@
     "dev": "nodemon src/index.js",
     "lint": "eslint src/",
     "test": "mocha src/*.test.js src/**/*.test.js --watch",
-    "migrate": "npx knex migrate:latest"
+    "migrate": "npx knex migrate:latest",
+    "rollback": "npx knex migrate:rollback"
   },
   "keywords": [],
   "author": "",

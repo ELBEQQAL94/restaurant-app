@@ -26,6 +26,14 @@ The restaurant website, it's give us informations about all category of foods an
 - [x] setup docker-compose file
 - [x] Create an image of postgres
 - [x] run postgres server
+- [ ] Create Tables:
+     - [x] user
+     - [ ] role
+     - [ ] product
+     - [ ] product_category
+     - [ ] team
+     - [ ] product_view
+     - [ ] order
 
 ### Modeling SQL DataBase
 
