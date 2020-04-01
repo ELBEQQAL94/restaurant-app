@@ -18,6 +18,8 @@ The restaurant website, it's give us informations about all category of foods an
 * docker-compose up
 ```
 
+* open adminer on: `http://localhost:8080`
+
 ```sh
 * yarn install
 ```
