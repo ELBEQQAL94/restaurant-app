@@ -9,8 +9,8 @@ The restaurant website, it's give us informations about all category of foods an
 ```sh
 * setup .env file
 * docker-compose up
-* yarn migrate for migrations db
-* yarn rollback for drops tables in db
+* yarn migrate (for migrations db)
+* yarn rollback (for drops tables in db)
 
 ```
 
