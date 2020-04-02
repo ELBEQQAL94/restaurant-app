@@ -9,7 +9,8 @@
     "lint": "eslint src/",
     "test": "mocha src/*.test.js src/**/*.test.js --watch",
     "migrate": "npx knex migrate:latest",
-    "rollback": "npx knex migrate:rollback"
+    "rollback": "npx knex migrate:rollback",
+    "seed": "npx knex seed:make user"
   },
   "keywords": [],
   "author": "",
